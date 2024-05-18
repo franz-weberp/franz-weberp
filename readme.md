@@ -5,9 +5,9 @@ I'm Franz Weber, a passionate software developer and tech enthusiast.
 I have been working professionally for almost 10 years. In the first 5 years, I worked as a full-stack developer to develop the main skills and enhance my knowledge of application development. Later, I specialized in front-end web development, combining modern frameworks with best practices.
 
 ## 🎖️ Some Achievements
-✅ Multinational E-Commerce: Successfully planned and developed an e-commerce platform for both Americas and Europe, ensuring compliance with LGPD and GDPR regulations.
-✅ Website Revamp: Elevated monthly website traffic from 50,000 visitors to over half a million daily visitors - within just 3 months. Achieved an 8x increase in conversion rates.
-✅ Team Leadership: Led and mentored a team of 5 junior developers, bridging communication between marketing, design, and metrics teams.
+✅ Multinational E-Commerce: Successfully planned and developed an e-commerce platform for both Americas and Europe, ensuring compliance with LGPD and GDPR regulations.<br>
+✅ Website Revamp: Elevated monthly website traffic from 50,000 visitors to over half a million daily visitors - within just 3 months. Achieved an 8x increase in conversion rates.<br>
+✅ Team Leadership: Led and mentored a team of 5 junior developers, bridging communication between marketing, design, and metrics teams.<br>
 ✅ SaSS Development: Contributed to the development of an RH Digital SaSS solution, aligning it with LGPD norms.
 
 ## 🖥️ Tech
